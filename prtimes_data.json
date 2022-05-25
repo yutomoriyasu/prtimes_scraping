@@ -1,0 +1,71 @@
+{
+  "laundry": {
+    "query": "洗濯"
+  },
+  "learning": {
+    "query": "習い事"
+  },
+  "organize": {
+    "query": "整理"
+  },
+  "sleep": {
+    "query": "睡眠"
+  },
+  "space": {
+    "query": "収納"
+  },
+  "stationary": {
+    "query": "文房具"
+  },
+  "stay_home": {
+    "query": "ステイホーム"
+  },
+  "study": {
+    "query": "勉強"
+  },
+  "useful_goods": {
+    "query": "便利グッズ"
+  },
+  "zakka": {
+    "query": "生活雑貨"
+  },
+  "home_item": {
+    "query": "おうち時間 アイテム"
+  },
+  "home_fun": {
+    "query": "おうち時間 楽しみ方"
+  },
+  "home_interior": {
+    "query": "おうち時間 インテリア"
+  },
+  "home_adult": {
+    "query": "おうち時間 おとな"
+  },
+  "home_new": {
+    "query": "おうち時間 新商品"
+  },
+  "diy": {
+    "query": "DIY"
+  },
+  "kitchen": {
+    "query": "キッチン"
+  },
+  "cleaning": {
+    "query": "掃除"
+  },
+  "daily": {
+    "query": "日用品"
+  },
+  "interior": {
+    "query": "インテリア"
+  },
+  "home_appliance": {
+    "query": "調理家電"
+  },
+  "katazuke": {
+    "query": "片付け"
+  },
+  "furniture": {
+    "query": "家具"
+  }
+}
