@@ -19,13 +19,13 @@ import json
 
 import urllib.parse
 
-excel_path = "../../Desktop/prtimes_0525_0607.xlsx"
+excel_path = "../../Desktop/pritimes_0608_0621.xlsx"
 
 json_data = json.load(open('./data.json', 'r'))
 
-start_date = '2022-05-25' + 'T00:00:00+09:00'
+start_date = '2022-06-08' + 'T00:00:00+09:00'
 
-end_date = '2022-06-07' + 'T23:59:59+09:00'
+end_date = '2022-06-21' + 'T23:59:59+09:00'
 
 def getQuery(keyword):
     query = json_data[keyword]['query']
